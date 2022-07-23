@@ -1,4 +1,4 @@
-package com.wjn.java8;
+package com.wjn.java8.lambda;
 
 @FunctionalInterface
 public interface MyFun {
